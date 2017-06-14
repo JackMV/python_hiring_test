@@ -1,0 +1,1342 @@
+9c9
+< 108,OBP,vs RHP,HitterTeamId,0.331
+---
+> 108,OBP,vs RHP,HitterTeamId,0.333
+13c13
+< 108,OPS,vs RHP,HitterTeamId,0.698
+---
+> 108,OPS,vs RHP,HitterTeamId,0.699
+22,29c22,29
+< 109,OBP,vs LHH,PitcherTeamId,0.315
+< 109,OBP,vs LHP,HitterTeamId,0.304
+< 109,OBP,vs RHH,PitcherTeamId,0.289
+< 109,OBP,vs RHP,HitterTeamId,0.281
+< 109,OPS,vs LHH,PitcherTeamId,0.678
+< 109,OPS,vs LHP,HitterTeamId,0.672
+< 109,OPS,vs RHH,PitcherTeamId,0.686
+< 109,OPS,vs RHP,HitterTeamId,0.688
+---
+> 109,OBP,vs LHH,PitcherTeamId,0.316
+> 109,OBP,vs LHP,HitterTeamId,0.306
+> 109,OBP,vs RHH,PitcherTeamId,0.291
+> 109,OBP,vs RHP,HitterTeamId,0.284
+> 109,OPS,vs LHH,PitcherTeamId,0.679
+> 109,OPS,vs LHP,HitterTeamId,0.674
+> 109,OPS,vs RHH,PitcherTeamId,0.688
+> 109,OPS,vs RHP,HitterTeamId,0.691
+38c38
+< 110,OBP,vs LHH,PitcherTeamId,0.294
+---
+> 110,OBP,vs LHH,PitcherTeamId,0.298
+40,45c40,45
+< 110,OBP,vs RHH,PitcherTeamId,0.297
+< 110,OBP,vs RHP,HitterTeamId,0.283
+< 110,OPS,vs LHH,PitcherTeamId,0.665
+< 110,OPS,vs LHP,HitterTeamId,0.734
+< 110,OPS,vs RHH,PitcherTeamId,0.651
+< 110,OPS,vs RHP,HitterTeamId,0.649
+---
+> 110,OBP,vs RHH,PitcherTeamId,0.299
+> 110,OBP,vs RHP,HitterTeamId,0.286
+> 110,OPS,vs LHH,PitcherTeamId,0.669
+> 110,OPS,vs LHP,HitterTeamId,0.733
+> 110,OPS,vs RHH,PitcherTeamId,0.653
+> 110,OPS,vs RHP,HitterTeamId,0.651
+54,60c54,60
+< 111,OBP,vs LHH,PitcherTeamId,0.304
+< 111,OBP,vs LHP,HitterTeamId,0.306
+< 111,OBP,vs RHH,PitcherTeamId,0.306
+< 111,OBP,vs RHP,HitterTeamId,0.332
+< 111,OPS,vs LHH,PitcherTeamId,0.63
+< 111,OPS,vs LHP,HitterTeamId,0.698
+< 111,OPS,vs RHH,PitcherTeamId,0.708
+---
+> 111,OBP,vs LHH,PitcherTeamId,0.309
+> 111,OBP,vs LHP,HitterTeamId,0.31
+> 111,OBP,vs RHH,PitcherTeamId,0.307
+> 111,OBP,vs RHP,HitterTeamId,0.333
+> 111,OPS,vs LHH,PitcherTeamId,0.635
+> 111,OPS,vs LHP,HitterTeamId,0.703
+> 111,OPS,vs RHH,PitcherTeamId,0.71
+72,73c72,73
+< 112,OBP,vs RHH,PitcherTeamId,0.293
+< 112,OBP,vs RHP,HitterTeamId,0.36
+---
+> 112,OBP,vs RHH,PitcherTeamId,0.295
+> 112,OBP,vs RHP,HitterTeamId,0.361
+76c76
+< 112,OPS,vs RHH,PitcherTeamId,0.672
+---
+> 112,OPS,vs RHH,PitcherTeamId,0.674
+88,89c88,89
+< 113,OBP,vs RHH,PitcherTeamId,0.329
+< 113,OBP,vs RHP,HitterTeamId,0.329
+---
+> 113,OBP,vs RHH,PitcherTeamId,0.33
+> 113,OBP,vs RHP,HitterTeamId,0.335
+92,93c92,93
+< 113,OPS,vs RHH,PitcherTeamId,0.778
+< 113,OPS,vs RHP,HitterTeamId,0.761
+---
+> 113,OPS,vs RHH,PitcherTeamId,0.779
+> 113,OPS,vs RHP,HitterTeamId,0.767
+102,109c102,109
+< 114,OBP,vs LHH,PitcherTeamId,0.255
+< 114,OBP,vs LHP,HitterTeamId,0.339
+< 114,OBP,vs RHH,PitcherTeamId,0.331
+< 114,OBP,vs RHP,HitterTeamId,0.32
+< 114,OPS,vs LHH,PitcherTeamId,0.578
+< 114,OPS,vs LHP,HitterTeamId,0.704
+< 114,OPS,vs RHH,PitcherTeamId,0.794
+< 114,OPS,vs RHP,HitterTeamId,0.688
+---
+> 114,OBP,vs LHH,PitcherTeamId,0.256
+> 114,OBP,vs LHP,HitterTeamId,0.344
+> 114,OBP,vs RHH,PitcherTeamId,0.333
+> 114,OBP,vs RHP,HitterTeamId,0.324
+> 114,OPS,vs LHH,PitcherTeamId,0.579
+> 114,OPS,vs LHP,HitterTeamId,0.709
+> 114,OPS,vs RHH,PitcherTeamId,0.796
+> 114,OPS,vs RHP,HitterTeamId,0.692
+118,125c118,125
+< 115,OBP,vs LHH,PitcherTeamId,0.347
+< 115,OBP,vs LHP,HitterTeamId,0.287
+< 115,OBP,vs RHH,PitcherTeamId,0.363
+< 115,OBP,vs RHP,HitterTeamId,0.34
+< 115,OPS,vs LHH,PitcherTeamId,0.78
+< 115,OPS,vs LHP,HitterTeamId,0.656
+< 115,OPS,vs RHH,PitcherTeamId,0.878
+< 115,OPS,vs RHP,HitterTeamId,0.815
+---
+> 115,OBP,vs LHH,PitcherTeamId,0.353
+> 115,OBP,vs LHP,HitterTeamId,0.291
+> 115,OBP,vs RHH,PitcherTeamId,0.366
+> 115,OBP,vs RHP,HitterTeamId,0.343
+> 115,OPS,vs LHH,PitcherTeamId,0.786
+> 115,OPS,vs LHP,HitterTeamId,0.66
+> 115,OPS,vs RHH,PitcherTeamId,0.881
+> 115,OPS,vs RHP,HitterTeamId,0.818
+134c134
+< 116,OBP,vs LHH,PitcherTeamId,0.279
+---
+> 116,OBP,vs LHH,PitcherTeamId,0.284
+136,138c136,138
+< 116,OBP,vs RHH,PitcherTeamId,0.333
+< 116,OBP,vs RHP,HitterTeamId,0.364
+< 116,OPS,vs LHH,PitcherTeamId,0.632
+---
+> 116,OBP,vs RHH,PitcherTeamId,0.336
+> 116,OBP,vs RHP,HitterTeamId,0.365
+> 116,OPS,vs LHH,PitcherTeamId,0.637
+140,141c140,141
+< 116,OPS,vs RHH,PitcherTeamId,0.772
+< 116,OPS,vs RHP,HitterTeamId,0.854
+---
+> 116,OPS,vs RHH,PitcherTeamId,0.775
+> 116,OPS,vs RHP,HitterTeamId,0.855
+150,151c150,151
+< 117,OBP,vs LHH,PitcherTeamId,0.34
+< 117,OBP,vs LHP,HitterTeamId,0.241
+---
+> 117,OBP,vs LHH,PitcherTeamId,0.341
+> 117,OBP,vs LHP,HitterTeamId,0.243
+154,155c154,155
+< 117,OPS,vs LHH,PitcherTeamId,0.751
+< 117,OPS,vs LHP,HitterTeamId,0.559
+---
+> 117,OPS,vs LHH,PitcherTeamId,0.752
+> 117,OPS,vs LHP,HitterTeamId,0.561
+166,173c166,173
+< 118,OBP,vs LHH,PitcherTeamId,0.365
+< 118,OBP,vs LHP,HitterTeamId,0.349
+< 118,OBP,vs RHH,PitcherTeamId,0.346
+< 118,OBP,vs RHP,HitterTeamId,0.282
+< 118,OPS,vs LHH,PitcherTeamId,0.854
+< 118,OPS,vs LHP,HitterTeamId,0.861
+< 118,OPS,vs RHH,PitcherTeamId,0.8
+< 118,OPS,vs RHP,HitterTeamId,0.663
+---
+> 118,OBP,vs LHH,PitcherTeamId,0.367
+> 118,OBP,vs LHP,HitterTeamId,0.353
+> 118,OBP,vs RHH,PitcherTeamId,0.349
+> 118,OBP,vs RHP,HitterTeamId,0.283
+> 118,OPS,vs LHH,PitcherTeamId,0.855
+> 118,OPS,vs LHP,HitterTeamId,0.864
+> 118,OPS,vs RHH,PitcherTeamId,0.803
+> 118,OPS,vs RHP,HitterTeamId,0.664
+182c182
+< 119,OBP,vs LHH,PitcherTeamId,0.338
+---
+> 119,OBP,vs LHH,PitcherTeamId,0.343
+184,186c184,186
+< 119,OBP,vs RHH,PitcherTeamId,0.299
+< 119,OBP,vs RHP,HitterTeamId,0.365
+< 119,OPS,vs LHH,PitcherTeamId,0.728
+---
+> 119,OBP,vs RHH,PitcherTeamId,0.301
+> 119,OBP,vs RHP,HitterTeamId,0.367
+> 119,OPS,vs LHH,PitcherTeamId,0.733
+188,189c188,189
+< 119,OPS,vs RHH,PitcherTeamId,0.712
+< 119,OPS,vs RHP,HitterTeamId,0.819
+---
+> 119,OPS,vs RHH,PitcherTeamId,0.714
+> 119,OPS,vs RHP,HitterTeamId,0.822
+198,205c198,205
+< 120,OBP,vs LHH,PitcherTeamId,0.341
+< 120,OBP,vs LHP,HitterTeamId,0.333
+< 120,OBP,vs RHH,PitcherTeamId,0.315
+< 120,OBP,vs RHP,HitterTeamId,0.32
+< 120,OPS,vs LHH,PitcherTeamId,0.792
+< 120,OPS,vs LHP,HitterTeamId,0.771
+< 120,OPS,vs RHH,PitcherTeamId,0.71
+< 120,OPS,vs RHP,HitterTeamId,0.725
+---
+> 120,OBP,vs LHH,PitcherTeamId,0.346
+> 120,OBP,vs LHP,HitterTeamId,0.336
+> 120,OBP,vs RHH,PitcherTeamId,0.316
+> 120,OBP,vs RHP,HitterTeamId,0.323
+> 120,OPS,vs LHH,PitcherTeamId,0.797
+> 120,OPS,vs LHP,HitterTeamId,0.774
+> 120,OPS,vs RHH,PitcherTeamId,0.711
+> 120,OPS,vs RHP,HitterTeamId,0.727
+214,221c214,221
+< 121,OBP,vs LHH,PitcherTeamId,0.344
+< 121,OBP,vs LHP,HitterTeamId,0.339
+< 121,OBP,vs RHH,PitcherTeamId,0.27
+< 121,OBP,vs RHP,HitterTeamId,0.359
+< 121,OPS,vs LHH,PitcherTeamId,0.719
+< 121,OPS,vs LHP,HitterTeamId,0.71
+< 121,OPS,vs RHH,PitcherTeamId,0.633
+< 121,OPS,vs RHP,HitterTeamId,0.819
+---
+> 121,OBP,vs LHH,PitcherTeamId,0.347
+> 121,OBP,vs LHP,HitterTeamId,0.343
+> 121,OBP,vs RHH,PitcherTeamId,0.274
+> 121,OBP,vs RHP,HitterTeamId,0.36
+> 121,OPS,vs LHH,PitcherTeamId,0.722
+> 121,OPS,vs LHP,HitterTeamId,0.714
+> 121,OPS,vs RHH,PitcherTeamId,0.637
+> 121,OPS,vs RHP,HitterTeamId,0.82
+232c232
+< 133,OBP,vs RHH,PitcherTeamId,0.281
+---
+> 133,OBP,vs RHH,PitcherTeamId,0.283
+234c234
+< 133,OPS,vs LHH,PitcherTeamId,0.723
+---
+> 133,OPS,vs LHH,PitcherTeamId,0.724
+236c236
+< 133,OPS,vs RHH,PitcherTeamId,0.707
+---
+> 133,OPS,vs RHH,PitcherTeamId,0.709
+246c246
+< 134,OBP,vs LHH,PitcherTeamId,0.404
+---
+> 134,OBP,vs LHH,PitcherTeamId,0.406
+248,250c248,250
+< 134,OBP,vs RHH,PitcherTeamId,0.288
+< 134,OBP,vs RHP,HitterTeamId,0.34
+< 134,OPS,vs LHH,PitcherTeamId,0.973
+---
+> 134,OBP,vs RHH,PitcherTeamId,0.291
+> 134,OBP,vs RHP,HitterTeamId,0.341
+> 134,OPS,vs LHH,PitcherTeamId,0.975
+252,253c252,253
+< 134,OPS,vs RHH,PitcherTeamId,0.665
+< 134,OPS,vs RHP,HitterTeamId,0.78
+---
+> 134,OPS,vs RHH,PitcherTeamId,0.668
+> 134,OPS,vs RHP,HitterTeamId,0.781
+262,268c262,268
+< 135,OBP,vs LHH,PitcherTeamId,0.321
+< 135,OBP,vs LHP,HitterTeamId,0.29
+< 135,OBP,vs RHH,PitcherTeamId,0.305
+< 135,OBP,vs RHP,HitterTeamId,0.29
+< 135,OPS,vs LHH,PitcherTeamId,0.716
+< 135,OPS,vs LHP,HitterTeamId,0.675
+< 135,OPS,vs RHH,PitcherTeamId,0.735
+---
+> 135,OBP,vs LHH,PitcherTeamId,0.322
+> 135,OBP,vs LHP,HitterTeamId,0.296
+> 135,OBP,vs RHH,PitcherTeamId,0.306
+> 135,OBP,vs RHP,HitterTeamId,0.291
+> 135,OPS,vs LHH,PitcherTeamId,0.717
+> 135,OPS,vs LHP,HitterTeamId,0.68
+> 135,OPS,vs RHH,PitcherTeamId,0.736
+278,279c278,279
+< 136,OBP,vs LHH,PitcherTeamId,0.295
+< 136,OBP,vs LHP,HitterTeamId,0.325
+---
+> 136,OBP,vs LHH,PitcherTeamId,0.3
+> 136,OBP,vs LHP,HitterTeamId,0.327
+281,285c281,285
+< 136,OBP,vs RHP,HitterTeamId,0.307
+< 136,OPS,vs LHH,PitcherTeamId,0.643
+< 136,OPS,vs LHP,HitterTeamId,0.761
+< 136,OPS,vs RHH,PitcherTeamId,0.721
+< 136,OPS,vs RHP,HitterTeamId,0.686
+---
+> 136,OBP,vs RHP,HitterTeamId,0.309
+> 136,OPS,vs LHH,PitcherTeamId,0.648
+> 136,OPS,vs LHP,HitterTeamId,0.763
+> 136,OPS,vs RHH,PitcherTeamId,0.72
+> 136,OPS,vs RHP,HitterTeamId,0.688
+294c294
+< 137,OBP,vs LHH,PitcherTeamId,0.282
+---
+> 137,OBP,vs LHH,PitcherTeamId,0.283
+296,298c296,298
+< 137,OBP,vs RHH,PitcherTeamId,0.276
+< 137,OBP,vs RHP,HitterTeamId,0.377
+< 137,OPS,vs LHH,PitcherTeamId,0.614
+---
+> 137,OBP,vs RHH,PitcherTeamId,0.278
+> 137,OBP,vs RHP,HitterTeamId,0.38
+> 137,OPS,vs LHH,PitcherTeamId,0.615
+300,301c300,301
+< 137,OPS,vs RHH,PitcherTeamId,0.615
+< 137,OPS,vs RHP,HitterTeamId,0.831
+---
+> 137,OPS,vs RHH,PitcherTeamId,0.617
+> 137,OPS,vs RHP,HitterTeamId,0.834
+311,317c311,317
+< 138,OBP,vs LHP,HitterTeamId,0.335
+< 138,OBP,vs RHH,PitcherTeamId,0.333
+< 138,OBP,vs RHP,HitterTeamId,0.324
+< 138,OPS,vs LHH,PitcherTeamId,0.729
+< 138,OPS,vs LHP,HitterTeamId,0.803
+< 138,OPS,vs RHH,PitcherTeamId,0.777
+< 138,OPS,vs RHP,HitterTeamId,0.735
+---
+> 138,OBP,vs LHP,HitterTeamId,0.339
+> 138,OBP,vs RHH,PitcherTeamId,0.337
+> 138,OBP,vs RHP,HitterTeamId,0.325
+> 138,OPS,vs LHH,PitcherTeamId,0.73
+> 138,OPS,vs LHP,HitterTeamId,0.807
+> 138,OPS,vs RHH,PitcherTeamId,0.781
+> 138,OPS,vs RHP,HitterTeamId,0.736
+328c328
+< 139,OBP,vs RHH,PitcherTeamId,0.336
+---
+> 139,OBP,vs RHH,PitcherTeamId,0.337
+332,333c332,333
+< 139,OPS,vs RHH,PitcherTeamId,0.803
+< 139,OPS,vs RHP,HitterTeamId,0.672
+---
+> 139,OPS,vs RHH,PitcherTeamId,0.804
+> 139,OPS,vs RHP,HitterTeamId,0.671
+344,345c344,345
+< 140,OBP,vs RHH,PitcherTeamId,0.328
+< 140,OBP,vs RHP,HitterTeamId,0.301
+---
+> 140,OBP,vs RHH,PitcherTeamId,0.329
+> 140,OBP,vs RHP,HitterTeamId,0.302
+348,349c348,349
+< 140,OPS,vs RHH,PitcherTeamId,0.755
+< 140,OPS,vs RHP,HitterTeamId,0.713
+---
+> 140,OPS,vs RHH,PitcherTeamId,0.756
+> 140,OPS,vs RHP,HitterTeamId,0.714
+358c358
+< 141,OBP,vs LHH,PitcherTeamId,0.291
+---
+> 141,OBP,vs LHH,PitcherTeamId,0.294
+361,362c361,362
+< 141,OBP,vs RHP,HitterTeamId,0.367
+< 141,OPS,vs LHH,PitcherTeamId,0.608
+---
+> 141,OBP,vs RHP,HitterTeamId,0.372
+> 141,OPS,vs LHH,PitcherTeamId,0.611
+364,365c364,365
+< 141,OPS,vs RHH,PitcherTeamId,0.572
+< 141,OPS,vs RHP,HitterTeamId,0.774
+---
+> 141,OPS,vs RHH,PitcherTeamId,0.573
+> 141,OPS,vs RHP,HitterTeamId,0.779
+374,375c374,375
+< 142,OBP,vs LHH,PitcherTeamId,0.3
+< 142,OBP,vs LHP,HitterTeamId,0.258
+---
+> 142,OBP,vs LHH,PitcherTeamId,0.302
+> 142,OBP,vs LHP,HitterTeamId,0.26
+377,379c377,379
+< 142,OBP,vs RHP,HitterTeamId,0.286
+< 142,OPS,vs LHH,PitcherTeamId,0.635
+< 142,OPS,vs LHP,HitterTeamId,0.617
+---
+> 142,OBP,vs RHP,HitterTeamId,0.288
+> 142,OPS,vs LHH,PitcherTeamId,0.637
+> 142,OPS,vs LHP,HitterTeamId,0.619
+381c381
+< 142,OPS,vs RHP,HitterTeamId,0.622
+---
+> 142,OPS,vs RHP,HitterTeamId,0.624
+392,393c392,393
+< 143,OBP,vs RHH,PitcherTeamId,0.33
+< 143,OBP,vs RHP,HitterTeamId,0.319
+---
+> 143,OBP,vs RHH,PitcherTeamId,0.334
+> 143,OBP,vs RHP,HitterTeamId,0.323
+395,397c395,397
+< 143,OPS,vs LHP,HitterTeamId,0.94
+< 143,OPS,vs RHH,PitcherTeamId,0.758
+< 143,OPS,vs RHP,HitterTeamId,0.697
+---
+> 143,OPS,vs LHP,HitterTeamId,0.939
+> 143,OPS,vs RHH,PitcherTeamId,0.762
+> 143,OPS,vs RHP,HitterTeamId,0.701
+406,413c406,413
+< 144,OBP,vs LHH,PitcherTeamId,0.321
+< 144,OBP,vs LHP,HitterTeamId,0.382
+< 144,OBP,vs RHH,PitcherTeamId,0.302
+< 144,OBP,vs RHP,HitterTeamId,0.328
+< 144,OPS,vs LHH,PitcherTeamId,0.656
+< 144,OPS,vs LHP,HitterTeamId,0.911
+< 144,OPS,vs RHH,PitcherTeamId,0.73
+< 144,OPS,vs RHP,HitterTeamId,0.718
+---
+> 144,OBP,vs LHH,PitcherTeamId,0.325
+> 144,OBP,vs LHP,HitterTeamId,0.387
+> 144,OBP,vs RHH,PitcherTeamId,0.305
+> 144,OBP,vs RHP,HitterTeamId,0.333
+> 144,OPS,vs LHH,PitcherTeamId,0.66
+> 144,OPS,vs LHP,HitterTeamId,0.916
+> 144,OPS,vs RHH,PitcherTeamId,0.733
+> 144,OPS,vs RHP,HitterTeamId,0.724
+422c422
+< 145,OBP,vs LHH,PitcherTeamId,0.331
+---
+> 145,OBP,vs LHH,PitcherTeamId,0.332
+424c424
+< 145,OBP,vs RHH,PitcherTeamId,0.312
+---
+> 145,OBP,vs RHH,PitcherTeamId,0.313
+426c426
+< 145,OPS,vs LHH,PitcherTeamId,0.707
+---
+> 145,OPS,vs LHH,PitcherTeamId,0.708
+428c428
+< 145,OPS,vs RHH,PitcherTeamId,0.724
+---
+> 145,OPS,vs RHH,PitcherTeamId,0.725
+438c438
+< 146,OBP,vs LHH,PitcherTeamId,0.377
+---
+> 146,OBP,vs LHH,PitcherTeamId,0.379
+440,442c440,442
+< 146,OBP,vs RHH,PitcherTeamId,0.299
+< 146,OBP,vs RHP,HitterTeamId,0.292
+< 146,OPS,vs LHH,PitcherTeamId,0.815
+---
+> 146,OBP,vs RHH,PitcherTeamId,0.302
+> 146,OBP,vs RHP,HitterTeamId,0.295
+> 146,OPS,vs LHH,PitcherTeamId,0.817
+444,445c444,445
+< 146,OPS,vs RHH,PitcherTeamId,0.709
+< 146,OPS,vs RHP,HitterTeamId,0.648
+---
+> 146,OPS,vs RHH,PitcherTeamId,0.712
+> 146,OPS,vs RHP,HitterTeamId,0.651
+455,457c455,457
+< 147,OBP,vs LHP,HitterTeamId,0.346
+< 147,OBP,vs RHH,PitcherTeamId,0.343
+< 147,OBP,vs RHP,HitterTeamId,0.312
+---
+> 147,OBP,vs LHP,HitterTeamId,0.35
+> 147,OBP,vs RHH,PitcherTeamId,0.346
+> 147,OBP,vs RHP,HitterTeamId,0.313
+459,461c459,461
+< 147,OPS,vs LHP,HitterTeamId,0.807
+< 147,OPS,vs RHH,PitcherTeamId,0.805
+< 147,OPS,vs RHP,HitterTeamId,0.678
+---
+> 147,OPS,vs LHP,HitterTeamId,0.811
+> 147,OPS,vs RHH,PitcherTeamId,0.808
+> 147,OPS,vs RHP,HitterTeamId,0.679
+470,472c470,472
+< 158,OBP,vs LHH,PitcherTeamId,0.339
+< 158,OBP,vs LHP,HitterTeamId,0.28
+< 158,OBP,vs RHH,PitcherTeamId,0.322
+---
+> 158,OBP,vs LHH,PitcherTeamId,0.34
+> 158,OBP,vs LHP,HitterTeamId,0.282
+> 158,OBP,vs RHH,PitcherTeamId,0.326
+474,476c474,476
+< 158,OPS,vs LHH,PitcherTeamId,0.725
+< 158,OPS,vs LHP,HitterTeamId,0.702
+< 158,OPS,vs RHH,PitcherTeamId,0.759
+---
+> 158,OPS,vs LHH,PitcherTeamId,0.726
+> 158,OPS,vs LHP,HitterTeamId,0.704
+> 158,OPS,vs RHH,PitcherTeamId,0.763
+484c484
+< 112526,OBP,vs LHH,PitcherId,0.312
+---
+> 112526,OBP,vs LHH,PitcherId,0.319
+486,487c486,487
+< 112526,OPS,vs LHH,PitcherId,0.801
+< 112526,OPS,vs RHH,PitcherId,0.594
+---
+> 112526,OPS,vs LHH,PitcherId,0.808
+> 112526,OPS,vs RHH,PitcherId,0.595
+508c508
+< 282332,OPS,vs RHH,PitcherId,0.729
+---
+> 282332,OPS,vs RHH,PitcherId,0.73
+513c513
+< 285064,OBP,vs RHH,PitcherId,0.24
+---
+> 285064,OBP,vs RHH,PitcherId,0.25
+515c515
+< 285064,OPS,vs RHH,PitcherId,0.445
+---
+> 285064,OPS,vs RHH,PitcherId,0.455
+531,532c531,532
+< 407793,OBP,vs RHH,PitcherId,0.309
+< 407793,OPS,vs RHH,PitcherId,0.729
+---
+> 407793,OBP,vs RHH,PitcherId,0.315
+> 407793,OPS,vs RHH,PitcherId,0.735
+556c556
+< 408236,OPS,vs RHP,HitterId,0.846
+---
+> 408236,OPS,vs RHP,HitterId,0.847
+567,568c567,568
+< 424825,OBP,vs RHP,HitterId,0.31
+< 424825,OPS,vs RHP,HitterId,0.685
+---
+> 424825,OBP,vs RHP,HitterId,0.321
+> 424825,OPS,vs RHP,HitterId,0.696
+572c572
+< 425509,OPS,vs RHP,HitterId,1.083
+---
+> 425509,OPS,vs RHP,HitterId,1.082
+585c585
+< 425794,OBP,vs RHH,PitcherId,0.347
+---
+> 425794,OBP,vs RHH,PitcherId,0.354
+587c587
+< 425794,OPS,vs RHH,PitcherId,0.802
+---
+> 425794,OPS,vs RHH,PitcherId,0.809
+596c596
+< 425877,OPS,vs RHP,HitterId,1.146
+---
+> 425877,OPS,vs RHP,HitterId,1.147
+607,608c607,608
+< 429666,OBP,vs RHP,HitterId,0.275
+< 429666,OPS,vs RHP,HitterId,0.573
+---
+> 429666,OBP,vs RHP,HitterId,0.28
+> 429666,OPS,vs RHP,HitterId,0.578
+617c617
+< 429719,OBP,vs RHH,PitcherId,0.4
+---
+> 429719,OBP,vs RHH,PitcherId,0.41
+619c619
+< 429719,OPS,vs RHH,PitcherId,1.265
+---
+> 429719,OPS,vs RHH,PitcherId,1.275
+626c626
+< 429722,OPS,vs LHH,PitcherId,0.564
+---
+> 429722,OPS,vs LHH,PitcherId,0.563
+648c648
+< 431145,OPS,vs RHP,HitterId,0.666
+---
+> 431145,OPS,vs RHP,HitterId,0.667
+652c652
+< 433587,OBP,vs LHH,PitcherId,0.357
+---
+> 433587,OBP,vs LHH,PitcherId,0.37
+654c654
+< 433587,OPS,vs LHH,PitcherId,0.922
+---
+> 433587,OPS,vs LHH,PitcherId,0.936
+664c664
+< 434378,OBP,vs LHH,PitcherId,0.2
+---
+> 434378,OBP,vs LHH,PitcherId,0.203
+666c666
+< 434378,OPS,vs LHH,PitcherId,0.345
+---
+> 434378,OPS,vs LHH,PitcherId,0.349
+672c672
+< 434538,OPS,vs RHH,PitcherId,0.553
+---
+> 434538,OPS,vs RHH,PitcherId,0.552
+676,679c676,679
+< 434622,OBP,vs LHH,PitcherId,0.231
+< 434622,OBP,vs RHH,PitcherId,0.271
+< 434622,OPS,vs LHH,PitcherId,0.448
+< 434622,OPS,vs RHH,PitcherId,0.604
+---
+> 434622,OBP,vs LHH,PitcherId,0.24
+> 434622,OBP,vs RHH,PitcherId,0.277
+> 434622,OPS,vs LHH,PitcherId,0.457
+> 434622,OPS,vs RHH,PitcherId,0.61
+692c692
+< 434778,OPS,vs RHP,HitterId,0.515
+---
+> 434778,OPS,vs RHP,HitterId,0.514
+699c699
+< 435062,OPS,vs RHP,HitterId,0.461
+---
+> 435062,OPS,vs RHP,HitterId,0.462
+704c704
+< 435063,OPS,vs RHP,HitterId,0.616
+---
+> 435063,OPS,vs RHP,HitterId,0.617
+720c720
+< 443558,OPS,vs RHP,HitterId,0.765
+---
+> 443558,OPS,vs RHP,HitterId,0.764
+732c732
+< 444876,OPS,vs RHP,HitterId,0.508
+---
+> 444876,OPS,vs RHP,HitterId,0.507
+743c743
+< 445060,OPS,vs RHH,PitcherId,0.534
+---
+> 445060,OPS,vs RHH,PitcherId,0.535
+751,752c751,752
+< 446308,OBP,vs RHP,HitterId,0.31
+< 446308,OPS,vs RHP,HitterId,0.699
+---
+> 446308,OBP,vs RHP,HitterId,0.317
+> 446308,OPS,vs RHP,HitterId,0.706
+772c772
+< 446481,OPS,vs RHP,HitterId,1.041
+---
+> 446481,OPS,vs RHP,HitterId,1.042
+775,776c775,776
+< 448179,OBP,vs RHH,PitcherId,0.204
+< 448179,OPS,vs RHH,PitcherId,0.537
+---
+> 448179,OBP,vs RHH,PitcherId,0.208
+> 448179,OPS,vs RHH,PitcherId,0.541
+780c780
+< 448306,OBP,vs LHH,PitcherId,0.339
+---
+> 448306,OBP,vs LHH,PitcherId,0.344
+782c782
+< 448306,OPS,vs LHH,PitcherId,0.765
+---
+> 448306,OPS,vs LHH,PitcherId,0.77
+803c803
+< 450172,OPS,vs RHH,PitcherId,0.995
+---
+> 450172,OPS,vs RHH,PitcherId,0.996
+808c808
+< 450306,OPS,vs RHH,PitcherId,0.431
+---
+> 450306,OPS,vs RHH,PitcherId,0.43
+816c816
+< 450314,OPS,vs RHP,HitterId,1.019
+---
+> 450314,OPS,vs RHP,HitterId,1.018
+828c828
+< 451596,OBP,vs LHH,PitcherId,0.286
+---
+> 451596,OBP,vs LHH,PitcherId,0.296
+830c830
+< 451596,OPS,vs LHH,PitcherId,0.559
+---
+> 451596,OPS,vs LHH,PitcherId,0.569
+844c844
+< 452234,OPS,vs RHP,HitterId,0.635
+---
+> 452234,OPS,vs RHP,HitterId,0.636
+856c856
+< 452655,OPS,vs RHP,HitterId,1.235
+---
+> 452655,OPS,vs RHP,HitterId,1.234
+859,860c859,860
+< 452657,OBP,vs RHH,PitcherId,0.29
+< 452657,OPS,vs RHH,PitcherId,0.66
+---
+> 452657,OBP,vs RHH,PitcherId,0.295
+> 452657,OPS,vs RHH,PitcherId,0.665
+869c869
+< 453056,OBP,vs RHP,HitterId,0.281
+---
+> 453056,OBP,vs RHP,HitterId,0.29
+871c871
+< 453056,OPS,vs RHP,HitterId,0.435
+---
+> 453056,OPS,vs RHP,HitterId,0.444
+883c883
+< 453178,OPS,vs RHH,PitcherId,0.592
+---
+> 453178,OPS,vs RHH,PitcherId,0.593
+896c896
+< 453286,OBP,vs LHH,PitcherId,0.409
+---
+> 453286,OBP,vs LHH,PitcherId,0.429
+898c898
+< 453286,OPS,vs LHH,PitcherId,1.112
+---
+> 453286,OPS,vs LHH,PitcherId,1.131
+904c904
+< 453329,OBP,vs LHH,PitcherId,0.271
+---
+> 453329,OBP,vs LHH,PitcherId,0.277
+906c906
+< 453329,OPS,vs LHH,PitcherId,0.491
+---
+> 453329,OPS,vs LHH,PitcherId,0.496
+912c912
+< 453385,OPS,vs RHH,PitcherId,0.745
+---
+> 453385,OPS,vs RHH,PitcherId,0.746
+917,919c917,919
+< 453562,OBP,vs RHH,PitcherId,0.245
+< 453562,OPS,vs LHH,PitcherId,1.223
+< 453562,OPS,vs RHH,PitcherId,0.571
+---
+> 453562,OBP,vs RHH,PitcherId,0.25
+> 453562,OPS,vs LHH,PitcherId,1.222
+> 453562,OPS,vs RHH,PitcherId,0.576
+948c948
+< 456034,OBP,vs LHH,PitcherId,0.346
+---
+> 456034,OBP,vs LHH,PitcherId,0.375
+950c950
+< 456034,OPS,vs LHH,PitcherId,0.929
+---
+> 456034,OPS,vs LHH,PitcherId,0.958
+971,972c971,972
+< 456422,OBP,vs RHP,HitterId,0.312
+< 456422,OPS,vs RHP,HitterId,0.571
+---
+> 456422,OBP,vs RHP,HitterId,0.323
+> 456422,OPS,vs RHP,HitterId,0.582
+983c983
+< 456501,OPS,vs RHH,PitcherId,0.637
+---
+> 456501,OPS,vs RHH,PitcherId,0.636
+1007c1007
+< 457759,OPS,vs RHP,HitterId,0.83
+---
+> 457759,OPS,vs RHP,HitterId,0.831
+1012c1012
+< 457763,OPS,vs RHP,HitterId,0.73
+---
+> 457763,OPS,vs RHP,HitterId,0.731
+1015,1016c1015,1016
+< 457787,OBP,vs RHP,HitterId,0.214
+< 457787,OPS,vs RHP,HitterId,0.557
+---
+> 457787,OBP,vs RHP,HitterId,0.225
+> 457787,OPS,vs RHP,HitterId,0.568
+1027c1027
+< 457918,OPS,vs RHH,PitcherId,0.494
+---
+> 457918,OPS,vs RHH,PitcherId,0.493
+1040c1040
+< 458708,OBP,vs LHH,PitcherId,0.171
+---
+> 458708,OBP,vs LHH,PitcherId,0.176
+1042c1042
+< 458708,OPS,vs LHH,PitcherId,0.444
+---
+> 458708,OPS,vs LHH,PitcherId,0.449
+1048c1048
+< 458731,OBP,vs LHP,HitterId,0.286
+---
+> 458731,OBP,vs LHP,HitterId,0.3
+1050c1050
+< 458731,OPS,vs LHP,HitterId,0.647
+---
+> 458731,OPS,vs LHP,HitterId,0.661
+1056c1056
+< 459431,OPS,vs RHP,HitterId,0.582
+---
+> 459431,OPS,vs RHP,HitterId,0.581
+1060c1060
+< 459964,OPS,vs RHP,HitterId,0.637
+---
+> 459964,OPS,vs RHP,HitterId,0.638
+1095,1096c1095,1096
+< 462101,OBP,vs RHP,HitterId,0.415
+< 462101,OPS,vs RHP,HitterId,1.126
+---
+> 462101,OBP,vs RHP,HitterId,0.425
+> 462101,OPS,vs RHP,HitterId,1.136
+1100c1100
+< 462136,OPS,vs LHH,PitcherId,0.455
+---
+> 462136,OPS,vs LHH,PitcherId,0.456
+1115,1116c1115,1116
+< 467100,OBP,vs RHH,PitcherId,0.326
+< 467100,OPS,vs RHH,PitcherId,0.704
+---
+> 467100,OBP,vs RHH,PitcherId,0.341
+> 467100,OPS,vs RHH,PitcherId,0.72
+1139,1140c1139,1140
+< 474443,OBP,vs RHP,HitterId,0.423
+< 474443,OPS,vs RHP,HitterId,0.881
+---
+> 474443,OBP,vs RHP,HitterId,0.44
+> 474443,OPS,vs RHP,HitterId,0.898
+1150c1150
+< 474832,OPS,vs LHP,HitterId,0.957
+---
+> 474832,OPS,vs LHP,HitterId,0.958
+1179,1180c1179,1180
+< 485567,OBP,vs RHP,HitterId,0.455
+< 485567,OPS,vs RHP,HitterId,1.011
+---
+> 485567,OBP,vs RHP,HitterId,0.484
+> 485567,OPS,vs RHP,HitterId,1.039
+1191,1192c1191,1192
+< 488771,OBP,vs RHP,HitterId,0.259
+< 488771,OPS,vs RHP,HitterId,0.467
+---
+> 488771,OBP,vs RHP,HitterId,0.269
+> 488771,OPS,vs RHP,HitterId,0.478
+1196c1196
+< 488862,OPS,vs RHP,HitterId,0.589
+---
+> 488862,OPS,vs RHP,HitterId,0.59
+1208c1208
+< 493316,OPS,vs RHP,HitterId,0.663
+---
+> 493316,OPS,vs RHP,HitterId,0.662
+1220c1220
+< 500779,OPS,vs RHH,PitcherId,0.839
+---
+> 500779,OPS,vs RHH,PitcherId,0.84
+1232c1232
+< 501957,OPS,vs RHH,PitcherId,0.901
+---
+> 501957,OPS,vs RHH,PitcherId,0.902
+1242,1243c1242,1243
+< 502042,OPS,vs LHH,PitcherId,0.882
+< 502042,OPS,vs RHH,PitcherId,0.63
+---
+> 502042,OPS,vs LHH,PitcherId,0.883
+> 502042,OPS,vs RHH,PitcherId,0.629
+1250,1251c1250,1251
+< 502043,OPS,vs LHH,PitcherId,0.729
+< 502043,OPS,vs RHH,PitcherId,0.9
+---
+> 502043,OPS,vs LHH,PitcherId,0.728
+> 502043,OPS,vs RHH,PitcherId,0.901
+1256c1256
+< 502082,OPS,vs RHP,HitterId,0.394
+---
+> 502082,OPS,vs RHP,HitterId,0.395
+1260c1260
+< 502110,OPS,vs RHP,HitterId,0.772
+---
+> 502110,OPS,vs RHP,HitterId,0.771
+1269,1271c1269,1271
+< 502188,OBP,vs RHH,PitcherId,0.206
+< 502188,OPS,vs LHH,PitcherId,0.762
+< 502188,OPS,vs RHH,PitcherId,0.373
+---
+> 502188,OBP,vs RHH,PitcherId,0.219
+> 502188,OPS,vs LHH,PitcherId,0.763
+> 502188,OPS,vs RHH,PitcherId,0.385
+1278c1278
+< 502190,OPS,vs LHH,PitcherId,0.79
+---
+> 502190,OPS,vs LHH,PitcherId,0.791
+1284c1284
+< 502210,OPS,vs RHP,HitterId,0.975
+---
+> 502210,OPS,vs RHP,HitterId,0.976
+1287,1288c1287,1288
+< 502327,OBP,vs RHH,PitcherId,0.318
+< 502327,OPS,vs RHH,PitcherId,0.812
+---
+> 502327,OBP,vs RHH,PitcherId,0.321
+> 502327,OPS,vs RHH,PitcherId,0.815
+1291,1292c1291,1292
+< 502481,OBP,vs RHP,HitterId,0.39
+< 502481,OPS,vs RHP,HitterId,0.916
+---
+> 502481,OBP,vs RHP,HitterId,0.4
+> 502481,OPS,vs RHP,HitterId,0.926
+1312c1312
+< 502748,OPS,vs RHH,PitcherId,0.73
+---
+> 502748,OPS,vs RHH,PitcherId,0.731
+1316c1316
+< 503449,OBP,vs LHH,PitcherId,0.318
+---
+> 503449,OBP,vs LHH,PitcherId,0.326
+1318c1318
+< 503449,OPS,vs LHH,PitcherId,0.684
+---
+> 503449,OPS,vs LHH,PitcherId,0.691
+1328c1328
+< 504379,OPS,vs RHH,PitcherId,0.703
+---
+> 504379,OPS,vs RHH,PitcherId,0.704
+1335c1335
+< 506433,OPS,vs RHH,PitcherId,0.588
+---
+> 506433,OPS,vs RHH,PitcherId,0.587
+1344c1344
+< 514888,OPS,vs RHP,HitterId,0.838
+---
+> 514888,OPS,vs RHP,HitterId,0.839
+1347,1348c1347,1348
+< 514917,OBP,vs RHP,HitterId,0.409
+< 514917,OPS,vs RHP,HitterId,0.736
+---
+> 514917,OBP,vs RHP,HitterId,0.422
+> 514917,OPS,vs RHP,HitterId,0.749
+1356c1356
+< 518452,OBP,vs LHH,PitcherId,0.319
+---
+> 518452,OBP,vs LHH,PitcherId,0.341
+1358,1359c1358,1359
+< 518452,OPS,vs LHH,PitcherId,0.608
+< 518452,OPS,vs RHH,PitcherId,1.228
+---
+> 518452,OPS,vs LHH,PitcherId,0.63
+> 518452,OPS,vs RHH,PitcherId,1.227
+1372c1372
+< 518567,OBP,vs LHH,PitcherId,0.226
+---
+> 518567,OBP,vs LHH,PitcherId,0.241
+1374c1374
+< 518567,OPS,vs LHH,PitcherId,0.495
+---
+> 518567,OPS,vs LHH,PitcherId,0.511
+1384c1384
+< 518618,OPS,vs RHP,HitterId,1.424
+---
+> 518618,OPS,vs RHP,HitterId,1.423
+1403,1404c1403,1404
+< 518716,OBP,vs RHH,PitcherId,0.24
+< 518716,OPS,vs RHH,PitcherId,0.573
+---
+> 518716,OBP,vs RHH,PitcherId,0.25
+> 518716,OPS,vs RHH,PitcherId,0.583
+1425c1425
+< 519043,OBP,vs RHH,PitcherId,0.375
+---
+> 519043,OBP,vs RHH,PitcherId,0.381
+1427c1427
+< 519043,OPS,vs RHH,PitcherId,0.75
+---
+> 519043,OPS,vs RHH,PitcherId,0.756
+1448c1448
+< 519141,OPS,vs RHH,PitcherId,0.85
+---
+> 519141,OPS,vs RHH,PitcherId,0.849
+1455c1455
+< 519144,OPS,vs RHH,PitcherId,0.628
+---
+> 519144,OPS,vs RHH,PitcherId,0.627
+1464c1464
+< 519237,OPS,vs RHP,HitterId,0.568
+---
+> 519237,OPS,vs RHP,HitterId,0.569
+1499,1500c1499,1500
+< 527048,OBP,vs RHH,PitcherId,0.352
+< 527048,OPS,vs RHH,PitcherId,0.86
+---
+> 527048,OBP,vs RHH,PitcherId,0.357
+> 527048,OPS,vs RHH,PitcherId,0.865
+1506,1507c1506,1507
+< 527054,OPS,vs LHH,PitcherId,1.074
+< 527054,OPS,vs RHH,PitcherId,0.426
+---
+> 527054,OPS,vs LHH,PitcherId,1.075
+> 527054,OPS,vs RHH,PitcherId,0.427
+1512c1512
+< 532077,OPS,vs LHH,PitcherId,0.871
+---
+> 532077,OPS,vs LHH,PitcherId,0.872
+1535,1536c1535,1536
+< 542255,OBP,vs RHP,HitterId,0.333
+< 542255,OPS,vs RHP,HitterId,0.641
+---
+> 542255,OBP,vs RHP,HitterId,0.341
+> 542255,OPS,vs RHP,HitterId,0.649
+1544c1544
+< 542340,OPS,vs RHP,HitterId,0.755
+---
+> 542340,OPS,vs RHP,HitterId,0.756
+1547,1548c1547,1548
+< 542364,OBP,vs RHP,HitterId,0.425
+< 542364,OPS,vs RHP,HitterId,0.863
+---
+> 542364,OBP,vs RHP,HitterId,0.447
+> 542364,OPS,vs RHP,HitterId,0.885
+1568c1568
+< 543022,OPS,vs LHH,PitcherId,0.85
+---
+> 543022,OPS,vs LHH,PitcherId,0.849
+1572c1572
+< 543063,OPS,vs RHP,HitterId,0.913
+---
+> 543063,OPS,vs RHP,HitterId,0.912
+1582c1582
+< 543101,OPS,vs LHH,PitcherId,0.467
+---
+> 543101,OPS,vs LHH,PitcherId,0.468
+1617c1617
+< 543408,OBP,vs RHH,PitcherId,0.393
+---
+> 543408,OBP,vs RHH,PitcherId,0.407
+1619c1619
+< 543408,OPS,vs RHH,PitcherId,1.101
+---
+> 543408,OPS,vs RHH,PitcherId,1.116
+1676c1676
+< 543807,OPS,vs RHP,HitterId,0.802
+---
+> 543807,OPS,vs RHP,HitterId,0.801
+1679,1680c1679,1680
+< 543829,OBP,vs RHP,HitterId,0.345
+< 543829,OPS,vs RHP,HitterId,0.765
+---
+> 543829,OBP,vs RHP,HitterId,0.352
+> 543829,OPS,vs RHP,HitterId,0.772
+1697c1697
+< 545333,OBP,vs RHH,PitcherId,0.48
+---
+> 545333,OBP,vs RHH,PitcherId,0.49
+1699c1699
+< 545333,OPS,vs RHH,PitcherId,1.17
+---
+> 545333,OPS,vs RHH,PitcherId,1.18
+1723,1724c1723,1724
+< 547379,OBP,vs RHP,HitterId,0.219
+< 547379,OPS,vs RHP,HitterId,0.344
+---
+> 547379,OBP,vs RHP,HitterId,0.241
+> 547379,OPS,vs RHP,HitterId,0.366
+1740c1740
+< 547957,OPS,vs RHP,HitterId,0.743
+---
+> 547957,OPS,vs RHP,HitterId,0.744
+1751,1752c1751,1752
+< 548389,OBP,vs RHH,PitcherId,0.29
+< 548389,OPS,vs RHH,PitcherId,0.559
+---
+> 548389,OBP,vs RHH,PitcherId,0.3
+> 548389,OPS,vs RHH,PitcherId,0.569
+1756c1756
+< 553993,OPS,vs RHP,HitterId,0.598
+---
+> 553993,OPS,vs RHP,HitterId,0.597
+1760c1760
+< 570256,OPS,vs RHP,HitterId,0.609
+---
+> 570256,OPS,vs RHP,HitterId,0.608
+1796c1796
+< 571437,OPS,vs RHP,HitterId,0.48
+---
+> 571437,OPS,vs RHP,HitterId,0.479
+1823,1824c1823,1824
+< 571697,OBP,vs RHP,HitterId,0.311
+< 571697,OPS,vs RHP,HitterId,0.872
+---
+> 571697,OBP,vs RHP,HitterId,0.318
+> 571697,OPS,vs RHP,HitterId,0.879
+1836c1836
+< 571788,OPS,vs RHP,HitterId,0.579
+---
+> 571788,OPS,vs RHP,HitterId,0.58
+1843,1844c1843,1844
+< 571863,OBP,vs RHH,PitcherId,0.222
+< 571863,OPS,vs RHH,PitcherId,0.597
+---
+> 571863,OBP,vs RHH,PitcherId,0.231
+> 571863,OPS,vs RHH,PitcherId,0.606
+1854c1854
+< 571946,OPS,vs LHH,PitcherId,0.773
+---
+> 571946,OPS,vs LHH,PitcherId,0.774
+1861c1861
+< 571951,OBP,vs RHH,PitcherId,0.326
+---
+> 571951,OBP,vs RHH,PitcherId,0.333
+1863c1863
+< 571951,OPS,vs RHH,PitcherId,0.694
+---
+> 571951,OPS,vs RHH,PitcherId,0.702
+1876c1876
+< 572008,OPS,vs RHP,HitterId,0.581
+---
+> 572008,OPS,vs RHP,HitterId,0.58
+1888c1888
+< 572114,OPS,vs RHP,HitterId,0.757
+---
+> 572114,OPS,vs RHP,HitterId,0.758
+1896c1896
+< 572128,OPS,vs RHP,HitterId,0.696
+---
+> 572128,OPS,vs RHP,HitterId,0.695
+1924c1924
+< 573186,OBP,vs LHH,PitcherId,0.333
+---
+> 573186,OBP,vs LHH,PitcherId,0.353
+1926c1926
+< 573186,OPS,vs LHH,PitcherId,0.6
+---
+> 573186,OPS,vs LHH,PitcherId,0.62
+1943,1944c1943,1944
+< 578428,OBP,vs RHP,HitterId,0.395
+< 578428,OPS,vs RHP,HitterId,0.842
+---
+> 578428,OBP,vs RHP,HitterId,0.405
+> 578428,OPS,vs RHP,HitterId,0.852
+1947,1948c1947,1948
+< 581527,OBP,vs RHP,HitterId,0.357
+< 581527,OPS,vs RHP,HitterId,0.737
+---
+> 581527,OBP,vs RHP,HitterId,0.364
+> 581527,OPS,vs RHP,HitterId,0.744
+1952c1952
+< 588751,OPS,vs RHP,HitterId,0.553
+---
+> 588751,OPS,vs RHP,HitterId,0.554
+1973c1973
+< 592332,OBP,vs RHH,PitcherId,0.341
+---
+> 592332,OBP,vs RHH,PitcherId,0.349
+1975c1975
+< 592332,OPS,vs RHH,PitcherId,0.766
+---
+> 592332,OPS,vs RHH,PitcherId,0.774
+1980c1980
+< 592351,OPS,vs LHH,PitcherId,0.64
+---
+> 592351,OPS,vs LHH,PitcherId,0.641
+1988c1988
+< 592518,OPS,vs RHP,HitterId,0.49
+---
+> 592518,OPS,vs RHP,HitterId,0.491
+2004c2004
+< 592669,OPS,vs RHP,HitterId,1.193
+---
+> 592669,OPS,vs RHP,HitterId,1.192
+2015,2016c2015,2016
+< 592731,OBP,vs RHP,HitterId,0.323
+< 592731,OPS,vs RHP,HitterId,0.771
+---
+> 592731,OBP,vs RHP,HitterId,0.333
+> 592731,OPS,vs RHP,HitterId,0.782
+2024c2024
+< 592767,OPS,vs RHH,PitcherId,0.93
+---
+> 592767,OPS,vs RHH,PitcherId,0.931
+2034,2035c2034,2035
+< 592791,OPS,vs LHH,PitcherId,0.916
+< 592791,OPS,vs RHH,PitcherId,0.658
+---
+> 592791,OPS,vs LHH,PitcherId,0.915
+> 592791,OPS,vs RHH,PitcherId,0.657
+2040c2040
+< 592836,OBP,vs LHH,PitcherId,0.353
+---
+> 592836,OBP,vs LHH,PitcherId,0.364
+2042c2042
+< 592836,OPS,vs LHH,PitcherId,0.723
+---
+> 592836,OPS,vs LHH,PitcherId,0.734
+2052c2052
+< 592885,OPS,vs RHP,HitterId,0.823
+---
+> 592885,OPS,vs RHP,HitterId,0.824
+2083c2083
+< 593679,OPS,vs RHH,PitcherId,0.486
+---
+> 593679,OPS,vs RHH,PitcherId,0.487
+2106c2106
+< 594742,OPS,vs LHH,PitcherId,0.607
+---
+> 594742,OPS,vs LHH,PitcherId,0.608
+2113,2115c2113,2115
+< 594760,OBP,vs RHH,PitcherId,0.205
+< 594760,OPS,vs LHH,PitcherId,0.92
+< 594760,OPS,vs RHH,PitcherId,0.664
+---
+> 594760,OBP,vs RHH,PitcherId,0.211
+> 594760,OPS,vs LHH,PitcherId,0.921
+> 594760,OPS,vs RHH,PitcherId,0.67
+2120c2120
+< 594777,OPS,vs RHP,HitterId,0.941
+---
+> 594777,OPS,vs RHP,HitterId,0.94
+2128c2128
+< 594809,OPS,vs RHP,HitterId,0.701
+---
+> 594809,OPS,vs RHP,HitterId,0.7
+2163,2164c2163,2164
+< 595879,OBP,vs RHP,HitterId,0.325
+< 595879,OPS,vs RHP,HitterId,0.678
+---
+> 595879,OBP,vs RHP,HitterId,0.333
+> 595879,OPS,vs RHP,HitterId,0.686
+2171,2172c2171,2172
+< 596019,OBP,vs RHP,HitterId,0.282
+< 596019,OPS,vs RHP,HitterId,0.461
+---
+> 596019,OBP,vs RHP,HitterId,0.289
+> 596019,OPS,vs RHP,HitterId,0.468
+2188c2188
+< 596059,OPS,vs RHP,HitterId,0.55
+---
+> 596059,OPS,vs RHP,HitterId,0.551
+2203c2203
+< 596142,OPS,vs RHP,HitterId,0.673
+---
+> 596142,OPS,vs RHP,HitterId,0.674
+2208c2208
+< 596143,OPS,vs RHP,HitterId,0.502
+---
+> 596143,OPS,vs RHP,HitterId,0.501
+2219,2220c2219,2220
+< 596451,OBP,vs RHP,HitterId,0.286
+< 596451,OPS,vs RHP,HitterId,0.515
+---
+> 596451,OBP,vs RHP,HitterId,0.3
+> 596451,OPS,vs RHP,HitterId,0.529
+2259c2259
+< 605194,OPS,vs RHH,PitcherId,0.516
+---
+> 605194,OPS,vs RHH,PitcherId,0.515
+2263,2264c2263,2264
+< 605200,OBP,vs RHH,PitcherId,0.407
+< 605200,OPS,vs RHH,PitcherId,0.99
+---
+> 605200,OBP,vs RHH,PitcherId,0.423
+> 605200,OPS,vs RHH,PitcherId,1.006
+2273c2273
+< 605242,OBP,vs RHH,PitcherId,0.4
+---
+> 605242,OBP,vs RHH,PitcherId,0.417
+2275c2275
+< 605242,OPS,vs RHH,PitcherId,0.965
+---
+> 605242,OPS,vs RHH,PitcherId,0.982
+2279,2280c2279,2280
+< 605388,OBP,vs RHH,PitcherId,0.4
+< 605388,OPS,vs RHH,PitcherId,0.978
+---
+> 605388,OBP,vs RHH,PitcherId,0.408
+> 605388,OPS,vs RHH,PitcherId,0.986
+2284c2284
+< 605397,OPS,vs RHH,PitcherId,0.51
+---
+> 605397,OPS,vs RHH,PitcherId,0.511
+2312c2312
+< 606299,OPS,vs RHP,HitterId,0.778
+---
+> 606299,OPS,vs RHP,HitterId,0.777
+2315,2316c2315,2316
+< 606466,OBP,vs RHP,HitterId,0.154
+< 606466,OPS,vs RHP,HitterId,0.289
+---
+> 606466,OBP,vs RHP,HitterId,0.158
+> 606466,OPS,vs RHP,HitterId,0.293
+2323,2324c2323,2324
+< 607074,OBP,vs RHH,PitcherId,0.27
+< 607074,OPS,vs RHH,PitcherId,0.64
+---
+> 607074,OBP,vs RHH,PitcherId,0.274
+> 607074,OPS,vs RHH,PitcherId,0.645
+2331c2331
+< 607192,OPS,vs RHH,PitcherId,0.592
+---
+> 607192,OPS,vs RHH,PitcherId,0.593
+2341,2343c2341,2343
+< 607229,OBP,vs RHH,PitcherId,0.303
+< 607229,OPS,vs LHH,PitcherId,0.455
+< 607229,OPS,vs RHH,PitcherId,0.613
+---
+> 607229,OBP,vs RHH,PitcherId,0.312
+> 607229,OPS,vs LHH,PitcherId,0.454
+> 607229,OPS,vs RHH,PitcherId,0.623
+2348,2351c2348,2351
+< 607625,OBP,vs LHH,PitcherId,0.308
+< 607625,OBP,vs RHH,PitcherId,0.357
+< 607625,OPS,vs LHH,PitcherId,0.727
+< 607625,OPS,vs RHH,PitcherId,0.982
+---
+> 607625,OBP,vs LHH,PitcherId,0.316
+> 607625,OBP,vs RHH,PitcherId,0.385
+> 607625,OPS,vs LHH,PitcherId,0.735
+> 607625,OPS,vs RHH,PitcherId,1.01
+2355,2356c2355,2356
+< 607680,OBP,vs RHP,HitterId,0.34
+< 607680,OPS,vs RHP,HitterId,0.673
+---
+> 607680,OBP,vs RHP,HitterId,0.353
+> 607680,OPS,vs RHP,HitterId,0.686
+2360c2360
+< 608061,OPS,vs RHP,HitterId,1.094
+---
+> 608061,OPS,vs RHP,HitterId,1.093
+2380c2380
+< 608566,OBP,vs LHH,PitcherId,0.385
+---
+> 608566,OBP,vs LHH,PitcherId,0.395
+2382c2382
+< 608566,OPS,vs LHH,PitcherId,0.985
+---
+> 608566,OPS,vs LHH,PitcherId,0.995
+2391,2392c2391,2392
+< 608648,OBP,vs LHH,PitcherId,0.214
+< 608648,OPS,vs LHH,PitcherId,0.483
+---
+> 608648,OBP,vs LHH,PitcherId,0.222
+> 608648,OPS,vs LHH,PitcherId,0.491
+2397c2397
+< 608665,OBP,vs RHH,PitcherId,0.333
+---
+> 608665,OBP,vs RHH,PitcherId,0.344
+2399c2399
+< 608665,OPS,vs RHH,PitcherId,0.781
+---
+> 608665,OPS,vs RHH,PitcherId,0.792
+2415,2416c2415,2416
+< 621020,OBP,vs RHP,HitterId,0.386
+< 621020,OPS,vs RHP,HitterId,0.86
+---
+> 621020,OBP,vs RHP,HitterId,0.395
+> 621020,OPS,vs RHP,HitterId,0.869
+2435c2435
+< 621244,OPS,vs RHH,PitcherId,0.65
+---
+> 621244,OPS,vs RHH,PitcherId,0.651
+2452c2452
+< 621563,OPS,vs RHP,HitterId,0.563
+---
+> 621563,OPS,vs RHP,HitterId,0.562
+2464c2464
+< 624424,OPS,vs RHP,HitterId,0.907
+---
+> 624424,OPS,vs RHP,HitterId,0.906
+2468c2468
+< 624428,OPS,vs RHP,HitterId,0.576
+---
+> 624428,OPS,vs RHP,HitterId,0.577
+2475,2476c2475,2476
+< 625643,OBP,vs RHH,PitcherId,0.333
+< 625643,OPS,vs RHH,PitcherId,0.74
+---
+> 625643,OBP,vs RHH,PitcherId,0.345
+> 625643,OPS,vs RHH,PitcherId,0.752
+2512c2512
+< 641771,OBP,vs LHH,PitcherId,0.387
+---
+> 641771,OBP,vs LHH,PitcherId,0.4
+2514c2514
+< 641771,OPS,vs LHH,PitcherId,0.868
+---
+> 641771,OPS,vs LHH,PitcherId,0.881
+2528c2528
+< 643230,OPS,vs RHH,PitcherId,1.081
+---
+> 643230,OPS,vs RHH,PitcherId,1.08
